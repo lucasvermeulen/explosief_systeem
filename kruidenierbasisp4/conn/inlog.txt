@@ -1,0 +1,3 @@
+db: d71010_kruidenierp4
+user: d71010_explosief
+pass: Hb71010lucas
